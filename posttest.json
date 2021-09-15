@@ -1,0 +1,58 @@
+{
+  "version": 2.0,
+  "questions": [
+    {
+      "question": "1.The anticoagulating agent used in this test is:",
+      "answers": {
+        "a": "Histopaque 1077 medium",
+        "b": "Heparin",
+        "c": "Alcohol",
+        "d": "Both a and c"
+      },
+      
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "2.Lymphocytes consists of:",
+      "answers": {
+        "a": "B cells",
+        "b": "T cells",
+        "c": "NK cells",
+        "d": "All the above"
+      },
+      
+      "correctAnswer": "d",
+      "difficulty": "beginner"
+    },
+
+    {
+      "question": "3.The centrifugation used for the isolation of lymphocyte with histopaque - 1077 solution is on basis of",
+      "answers": {
+        "a": "Size",
+        "b": "Density",
+        "c": "Shape",
+        "d": "Molecular weight"
+      },
+          
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    },
+
+      {
+        "question": "4.Lymphocyte will attack on:",
+        "answers": {
+          "a": "Involved in the attack of foreign cells",
+          "b": "Can Secrete antibodies",
+          "c": "Can maintain long term surveilliance for normal tissue cells",
+          "d": "All the above."
+        },
+
+            
+      "correctAnswer": "d",
+      "difficulty": "beginner"
+    }   
+     
+    
+  ]
+}
