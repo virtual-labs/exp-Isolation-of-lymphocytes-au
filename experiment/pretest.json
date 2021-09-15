@@ -2,38 +2,57 @@
   "version": 2.0,
   "questions": [
     {
-      "question": "This is a Sample Question 1?",
+      "question": "1.Histopaque – 1077 solution is a solution of:",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": "Poly sucrose",
+        "b": "Poly glucose",
+        "c": "Sodium diatrizoate",
+        "d": "Both a and c"
       },
-      "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
-      },
-      "correctAnswer": "a",
+      
+      "correctAnswer": "d",
       "difficulty": "beginner"
     },
     {
-      "question": "This is a Sample Question 2?",
+      "question": "2.Lymphocytes consists of:",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": "B cells",
+        "b": "T cells",
+        "c": "NK cells",
+        "d": "All the above"
       },
-      "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
-      },
-      "correctAnswer": "c",
+      
+      "correctAnswer": "d",
       "difficulty": "beginner"
-    }
+    },
+
+    {
+      "question": "3.The centrifugation used for the isolation of lymphocyte with histopaque - 1077 solution is on basis of",
+      "answers": {
+        "a": "Size",
+        "b": "Density",
+        "c": "Shape",
+        "d": "Molecular weight"
+      },
+          
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    },
+
+      {
+        "question": "4.Lymphocyte will attack on:",
+        "answers": {
+          "a": "Involved in the attack of foreign cells",
+          "b": "Can Secrete antibodies",
+          "c": "Can maintain long term surveilliance for normal tissue cells",
+          "d": "All the above."
+        },
+
+            
+      "correctAnswer": "d",
+      "difficulty": "beginner"
+    }   
+     
+    
   ]
 }
