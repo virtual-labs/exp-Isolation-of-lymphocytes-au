@@ -2,15 +2,15 @@
   "version": 2.0,
   "questions": [
     {
-      "question": "1.Histopaque – 1077 solution is a solution of:",
+      "question": "1.The anticoagulating agent used in this test is:",
       "answers": {
-        "a": "Poly sucrose",
-        "b": "Poly glucose",
-        "c": "Sodium diatrizoate",
+        "a": "Histopaque 1077 medium",
+        "b": "Heparin",
+        "c": "Alcohol",
         "d": "Both a and c"
       },
       
-      "correctAnswer": "d",
+      "correctAnswer": "b",
       "difficulty": "beginner"
     },
     {
